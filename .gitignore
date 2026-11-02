@@ -39,3 +39,9 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# configuración local (IP del backend)
+.env
+
+# configuración local del editor (rutas de esta PC)
+.claude/launch.json
